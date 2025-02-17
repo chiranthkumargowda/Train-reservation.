@@ -1,0 +1,8 @@
+Introduction
+Train reservation system is the process where the user be available to search for seats and reserve the available seats
+Purpose
+The main purpose of train reservation system is to make users essential with the needs for users as they required seats and comfartable seats
+Scope and objective
+This train reservation is a system where even a user and a administrator can use this system                                    The main objective of this sytem is to provide and make users to get their available seats
+Functional requirements
+There are various fumnctional requirements
